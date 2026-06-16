@@ -1,14 +1,14 @@
-# Nexus SMARTS/SMARTER — Elicitação Direta e Ordinal
+# SAD SMARTS/SMARTER — Elicitação Direta e Ordinal
 
-Este repositório é o módulo independente do ecossistema **NEXUS MCDM**, configurado para operar exclusivamente com os métodos **SMARTS** e **SMARTER**.
+Este repositório é o módulo independente do ecossistema **SAD MCDM**, configurado para operar exclusivamente com os métodos **SMARTS** e **SMARTER**.
 
 ---
 
 ## 🎨 Identidade Visual e Branding
-- **Nome Oficial:** Nexus SMARTS/SMARTER
+- **Nome Oficial:** SAD SMARTS/SMARTER
 - **Cores Oficiais:** Teal (`#0D9488`) e Prata/Slate (`#94A3B8`)
 - **Conceito Visual:** Balança de pesos equilibrada simbolizando a elicitação simplificada e precisa de pesos de critérios.
-- **Copyright:** Direitos Reservados © 2026 NEXUS-MCDM. Todos os direitos reservados.
+- **Copyright:** Direitos Reservados © 2026 SAD-MCDM. Todos os direitos reservados.
 
 ---
 
